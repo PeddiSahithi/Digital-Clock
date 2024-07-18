@@ -1,1 +1,1 @@
-# Digital-Clock
+A simple digital clock application built with Java Swing, displaying the current time, day of the week, and date. To run, clone the repository, compile Digital.java, and execute the compiled class. Technologies used include Java, Swing, and SimpleDateFormat.
